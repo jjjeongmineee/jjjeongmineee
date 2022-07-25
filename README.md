@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > ***Design Your Life, Go Far Beyond***
 
 ### 💼 Work
-- [[Alchera]](hhttps://alchera.ai/) Project Manager, Product Division Team (2021.10 ~ 2022.06)
+- [[Alchera]](https://alchera.ai/) Project Manager, Product Division Team (2021.10 ~ 2022.06)
 - [[Algorima]](https://algorima.io/) AI Education Manager, Business Development Team (2021.07 ~ 2021.09)
 - [[CO;Ders Us]](https://www.codersus.org/) Founder/CEO (2021.03 ~ )
 - [[Ericsson-LG]](https://www.ericssonlg.com/) Software Developer Intern, R&D TC Production Team (2021.01 ~ 2021.02)
