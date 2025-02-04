@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 > ***What we dwell on is who we become***
 
 ### 💼 Work
-- [[Samsung SDS America]](https://www.samsungsds.com/us/index.html) Project Manager (2024.05 ~ 2025.03)
-- [[Alchera]](https://alchera.ai/) Project Manager, Product Division Team (2021.10 ~ 2022.06)
-- [[Algorima]](https://algorima.io/) AI Education Manager, Business Development Team (2021.07 ~ 2021.09)
-- [[CO;Ders Us]](https://www.codersus.org/) Founder/CEO (2021.03 ~ )
-- [[Ericsson-LG]](https://www.ericssonlg.com/) Software Developer Intern, R&D TC Production Team (2021.01 ~ 2021.02)
-- [[Ninewatt]](https://ninewatt.com/) Software Developer Intern, R&D Team (2020.01 ~ 2020.06)
+- Project Manager @[Samsung SDS America](https://www.samsungsds.com/us/index.html) (2024.05 ~ )
+- Product Manager @[Alchera](https://alchera.ai/) (2021.10 ~ 2022.06)
+- AI Education Manager @[Algorima](https://algorima.io/) (2021.07 ~ 2021.09)
+- Founder/CEO @[CO;Ders Us](https://www.codersus.org/) (2021.03 ~ 2024.03)
+- Software Developer Intern @[Ericsson-LG](https://www.ericssonlg.com/) (2021.01 ~ 2021.02)
+- Software Developer Intern @[Ninewatt](https://ninewatt.com/) (2020.01 ~ 2020.06)
 
 
 ### 💻 Skill
