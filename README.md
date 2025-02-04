@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 ## Jeongmin Yoo
 
-> ***Design Your Life, Go Far Beyond***
+> ***What we dwell on is who we become***
 
 ### 💼 Work
+- [[Samsung SDS America]](https://www.samsungsds.com/us/index.html) Project Manager (2024.05 ~ 2025.03)
 - [[Alchera]](https://alchera.ai/) Project Manager, Product Division Team (2021.10 ~ 2022.06)
 - [[Algorima]](https://algorima.io/) AI Education Manager, Business Development Team (2021.07 ~ 2021.09)
 - [[CO;Ders Us]](https://www.codersus.org/) Founder/CEO (2021.03 ~ )
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Skill
-- Majoring in Comp Sci | Double Majoring in Applied Math & Stats
+- Major: Applied Mathematics & Statistics | Minor: Computer Science
 - Specialized in AI & Data Science
 
 ### 🎖 Awards
